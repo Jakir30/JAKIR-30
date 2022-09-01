@@ -1,2 +1,12 @@
 # JAKIR-30
 
+apt update 
+apt upgrade 
+pkg install python
+pkg install python2
+pkg install git 
+git clone https://github.com/JAKIR-30/JAKIR-30 
+ls 
+cd JAKIR-30 
+chmod +x * JAKIR-30 
+sh JAKIR-30
